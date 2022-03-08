@@ -1,0 +1,5 @@
+- 👋 Hola, soy @TheTaTan
+- 👀 Yo estoy interesado en trabajar como programador web.
+- 🌱 Ultimamente estoy aprendiendo a hacer juegos con python.
+- 💞️ Quisiera colaborar en codigos css.
+- 📫 Podrian comunicarse conmigo en Discord como: Tatan #3062.
