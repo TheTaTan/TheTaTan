@@ -1,5 +1,5 @@
 - 👋 Hola, soy @TheTaTan
 - 👀 Yo estoy interesado en trabajar como programador web.
-- 🌱 Ultimamente estoy aprendiendo a hacer juegos con python.
+- 🌱 Ultimamente estoy aprendiendo a hacer apps con python.
 - 💞️ Quisiera colaborar en codigos css.
 - 📫 Podrian comunicarse conmigo en Outlook: antosecami@outlook.es
