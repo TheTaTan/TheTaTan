@@ -1,5 +1,11 @@
-- 👋 Hola, soy @TheTaTan
-- 👀 Yo estoy interesado en trabajar como programador web.
-- 🌱 Ultimamente estoy aprendiendo a hacer apps con python.
-- 💞️ Quisiera colaborar en codigos css.
-- 📫 Podrian comunicarse conmigo en Outlook: antosecami@outlook.es
+- Buenas, soy TaTanKa, mucho Gusto!!
+
+- Programador C++ orientado a Android.
+
+- Ultimamente estoy aprendiendo a hacer juegos Android con Vulkan.
+
+- Quisiera colaborar en partes de proyectos que requieran lógica principal de juegos.
+
+- Soy alguien que le gusta hacer cosas desde scratch, en el sentido que busco usar cosas que se acerquen mucho a Assembly, siempre y cuando las herramientas estén a mi alcanze.
+
+- Podrian comunicarse conmigo en Outlook: antocarmirttk@outlook.com.
